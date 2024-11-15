@@ -36,7 +36,7 @@ You can find these and other projects in my [repositories](https://github.com/yo
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+- **LinkedIn:** https://www.linkedin.com/in/akash0803
 - **GitHub:** [Your GitHub Profile](https://github.com/your-username)
 
 ---
